@@ -186,6 +186,13 @@ export const siteConfig: SiteConfig = {
 				"/assets/desktop-banner/6.webp",
 				"/assets/desktop-banner/7.webp",
 				"/assets/desktop-banner/8.webp",
+				"/assets/desktop-banner/9.webp",
+				"/assets/desktop-banner/10.webp",
+				"/assets/desktop-banner/11.webp",
+				"/assets/desktop-banner/12.webp",
+				"/assets/desktop-banner/13.webp",
+				"/assets/desktop-banner/14.webp",
+				"/assets/desktop-banner/15.webp",
 			], // 桌面横幅图片
 			mobile: [
 				"/assets/mobile-banner/1.webp",
@@ -197,6 +204,12 @@ export const siteConfig: SiteConfig = {
 				"/assets/mobile-banner/7.webp",
 				"/assets/mobile-banner/8.webp",
 				"/assets/mobile-banner/9.webp",
+				"/assets/mobile-banner/10.webp",
+				"/assets/mobile-banner/11.webp",
+				"/assets/mobile-banner/12.webp",
+				"/assets/mobile-banner/13.webp",
+				"/assets/mobile-banner/14.webp",
+				"/assets/mobile-banner/15.webp",
 			], // 移动横幅图片
 		}, // 使用本地横幅图片
 

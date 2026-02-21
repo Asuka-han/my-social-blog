@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "model": "Vo_school_winter_v3.moc",
+  "textures": [
+    "textures/texture_00.png",
+    "textures/texture_01.png"
+  ],
+  "physics": "Vo_school_winter_v3.physics",
+  "layout": {
+    "center_x": 0.0,
+    "center_y": -0.05,
+    "width": 2.0
+  },
+  "motions": {
+    "idle": [
+      { "file": "motions/idle01.mtn" },
+      { "file": "motions/kime01.mtn" },
+      { "file": "motions/smile01.mtn" },
+      { "file": "motions/smile02.mtn" },
+      { "file": "motions/smile03.mtn" },
+      { "file": "motions/surprised01.mtn" },
+      { "file": "motions/sad01.mtn" },
+      { "file": "motions/angry01.mtn" },
+      { "file": "motions/cry01.mtn" },
+      { "file": "motions/nf01.mtn" },
+      { "file": "motions/nf02.mtn" },
+      { "file": "motions/nf03.mtn" },
+      { "file": "motions/nf04.mtn" },
+      { "file": "motions/nf05.mtn" },
+      { "file": "motions/nf_left01.mtn" },
+      { "file": "motions/nf_right01.mtn" },
+      { "file": "motions/nnf01.mtn" },
+      { "file": "motions/nnf02.mtn" },
+      { "file": "motions/nnf03.mtn" },
+      { "file": "motions/nnf04.mtn" },
+      { "file": "motions/nnf05.mtn" },
+      { "file": "motions/nnf_left01.mtn" },
+      { "file": "motions/nnf_right01.mtn" },
+      { "file": "motions/kandou01.mtn" },
+      { "file": "motions/uziuzi01.mtn" }
+    ]
+  }
+  ,
+  "expressions": [
+    { "file": "expressions/default.exp" },
+    { "file": "expressions/idle01.exp" },
+    { "file": "expressions/smile01.exp" },
+    { "file": "expressions/smile02.exp" },
+    { "file": "expressions/smile03.exp" },
+    { "file": "expressions/surprised01.exp" },
+    { "file": "expressions/sad01.exp" },
+    { "file": "expressions/serious01.exp" },
+    { "file": "expressions/kime01.exp" },
+    { "file": "expressions/angry01.exp" },
+    { "file": "expressions/cry01.exp" }
+  ]
+}
