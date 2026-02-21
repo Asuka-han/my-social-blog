@@ -16,24 +16,22 @@ export type DeviceCategory = {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
-		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.png",
-			specs: "Gray / 16G + 1TB",
-			description:
-				"Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+HONOR: [
+                {
+
+                        name: "HONOR 80 GT",
+
+                        image: "/images/device/honor80gt.png",
+
+                        specs: "Star Black / 12G + 512GB",
+
+                        description:
+
+                                "Flagship dual-core performance, IMX800 imaging, 66W Super Fast Charge.",
+
+			link: "https://www.hihonor.com/cn/phones/honor-80-gt/",
+
 		},
-	],
-	Router: [
-		{
-			name: "GL-MT3000",
-			image: "/images/device/mt3000.png",
-			specs: "1000Mbps / 2.5G",
-			description:
-				"Portable WiFi 6 router suitable for business trips and home use.",
-			link: "https://www.gl-inet.cn/products/gl-mt3000/",
-		},
+
 	],
 };

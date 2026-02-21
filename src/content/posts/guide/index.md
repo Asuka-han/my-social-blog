@@ -6,6 +6,7 @@ image: "./cover.webp"
 tags: ["Mizuki", "Blogging", "Customization"]
 category: Guides
 draft: false
+pinned: false
 ---
 
 
