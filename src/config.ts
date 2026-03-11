@@ -877,7 +877,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 			"HENTAI!",
 			"不可以这样欺负我啦！",
 		], // 触摸提示
-		home: "点击这里回到首页！", // 首页提示
+		home: "点击这里回到首页", // 首页提示
 		skin: ["想看看我的新衣服吗？", "新衣服真漂亮~"], // 换装提示
 		close: "QWQ 下次再见吧~", // 关闭提示
 		link: "https://github.com/matsuzaka-yuki/Mizuki", // 关于链接
